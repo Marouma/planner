@@ -1,0 +1,9 @@
+.contenaireservices{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+   
+}
+.card{
+    width:40%;
+}
